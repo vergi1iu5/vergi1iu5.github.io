@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Velodyne VLP16 Interface and Obstacle Finding](https://github.com/vergi1iu5/VelodyneVLP16_HALandObstacleFinder)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
